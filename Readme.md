@@ -23,7 +23,7 @@ Your mission is to read the 10-chapter detective story, solve each puzzle, and u
 Once you have formed the code, head over to the secret portal and enter the full 8 digits.
 
 👉 **Enter the code here to unlock the treasure:**  
-**https://your-website-url-here.com**
+**https://the-case-of-detective-arin-malik.netlify.app/**
 
 *(replace with your actual website link)*
 
