@@ -1,11 +1,11 @@
-Arin opened the microchip’s companion database.
-Each missing hour corresponded to an entry number.
-He retrieved four digits from those logs.
-They formed the first half of the master code:
-4821.
+Arin wrote the four missing hours: 02, 05, 07, 11.
+The order felt important.
+He checked them against archives of Loop’s past crimes.
+Every incident matched one of those hours.
+Loop was retracing their own history.
 
-This code unlocked the second layer of the hacked database.
-A new image appeared—Loop’s mask.
-Beneath it: “You’re close, Arin.”
-He exhaled slowly.
-Loop was watching.
+Each crime file had a single highlighted sentence.
+When combined, they formed a riddle:
+“What breaks without sound but screams in numbers?”
+Arin knew the answer immediately.
+A digital code.
