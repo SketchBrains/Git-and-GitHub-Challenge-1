@@ -25,8 +25,6 @@ Once you have formed the code, head over to the secret portal and enter the full
 👉 **Enter the code here to unlock the treasure:**  
 **https://the-case-of-detective-arin-malik.netlify.app/**
 
-*(replace with your actual website link)*
-
 If the code is correct, the vault will open.
 
 ---
