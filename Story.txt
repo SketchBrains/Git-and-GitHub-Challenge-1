@@ -1,11 +1,11 @@
-Arin followed the breadcrumbs to an abandoned subway line.
-Graffiti arrows led him deeper underground.
-His footsteps echoed through forgotten tunnels.
-The air smelled of rust and burnt wires.
-Something hummed ahead.
+Arin opened the microchip’s companion database.
+Each missing hour corresponded to an entry number.
+He retrieved four digits from those logs.
+They formed the first half of the master code:
+4821.
 
-He found a metal case in the center of the tunnel.
-As he approached, a projector activated.
-Loop’s distorted voice filled the darkness.
-“Finish the sequence, detective.”
-The case remained locked, waiting.
+This code unlocked the second layer of the hacked database.
+A new image appeared—Loop’s mask.
+Beneath it: “You’re close, Arin.”
+He exhaled slowly.
+Loop was watching.
